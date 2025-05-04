@@ -2,6 +2,62 @@
 ![[Portada.png]]
 
 
+
+---
+# 📘 Productivo con IA
+**Una guía práctica para transformar tu vida con inteligencia artificial**
+
+**Autor:** Jeremy J. DE LA CRUZ  
+📍 La Vega, República Dominicana  
+🗓️ Año: 2025
+
+---
+
+## © Derechos de autor
+
+© 2025 Jeremy J. DE LA CRUZ.  
+Todos los derechos reservados.
+
+Este libro está protegido por derechos de autor.  
+Se permite su lectura y descarga para uso **personal**.  
+No se permite su reproducción, distribución o venta sin permiso del autor.
+
+Para permisos, colaboraciones o licencias, contacta a:  
+📩 je7remy@gmail.com
+
+---
+
+## ✍️ Sobre el autor
+
+**Jeremy J. DE LA CRUZ**  
+Estudiante de Licenciatura en Informática apasionado por la tecnología, la productividad y la inteligencia artificial.
+
+Desde La Vega, República Dominicana, Jeremy ha creado este ebook como una herramienta accesible para ayudar a otros a aprovechar la IA sin complicaciones técnicas.
+
+Con experiencia en ciberseguridad, desarrollo y automatización, su misión es inspirar a personas comunes a lograr más con la ayuda de la tecnología.
+
+---
+
+## 🙏 Agradecimientos
+
+Gracias a:
+
+- Dios, por la vida y la visión.
+- Mi familia y amigos por el apoyo constante.
+- La comunidad digital que me motiva a seguir creando.
+- ChatGPT y las herramientas de IA que inspiraron esta guía.
+
+---
+
+## 🧭 Cómo usar este e-book
+
+- 📌 Cada capítulo es práctico y directo al grano.
+- ✅ Al final de cada sección, encontrarás pasos aplicables.
+- 🧠 No es para leer y olvidar: ¡es para leer y aplicar!
+- 📎 Puedes leer por orden o ir al capítulo que más te interese.
+
+---
+
 ## 📚Índice:
 
 |#|Título del capítulo|Enfoque|
@@ -1121,3 +1177,17 @@ Y ahora ese alguien... **eres tú**.
 
 ---
 
+## 🔚 ¿Y ahora qué?
+
+🎯 Si te gustó este e-book, compártelo con alguien que necesite:
+
+- Ahorrar tiempo
+- Empezar un proyecto
+- Aprender a usar IA sin complicaciones
+
+📬 Puedes escribirme en LinkedIn o dejar tu Feedback aquí:  
+🔗 [LinkedIn](https://www.linkedin.com/in/jeremy-jos%C3%A9-de-la-cruz-p%C3%A9rez-0a49b9237/)
+
+📦 Próximo proyecto: “Domina la productividad digital con IA — versión extendida”.
+
+---

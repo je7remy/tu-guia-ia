@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PRODUCTIVO CON IA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "PRODUCTIVO CON IA"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "ad21a353edd1ca6d",
   "lastOpenFiles": [
-    "PRODUCTIVO CON IA.md",
     "Portada.png",
+    "README.md",
+    "PRODUCTIVO CON IA.md",
     "ChatGPT Image 2 may 2025, 14_01_29.png"
   ]
 }
