@@ -39,7 +39,6 @@ No necesitas ser experto en tecnología. Solo necesitas ganas de mejorar tu vida
 Creador: **Jeremy J. DE LA CRUZ**  
 Ubicación: La Vega, República Dominicana  
 LinkedIn: [https://bit.ly/jeremy-jose](https://bit.ly/jeremy-jose)
-
 Gumroad: [Productivo con IA](https://jeremyverse17.gumroad.com/l/bkgatr)
 
 ---
